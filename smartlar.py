@@ -246,40 +246,9 @@ for i in range(len(finaltimings)):
 ''' 
 ---------------FIXED BUG---------------------
 
-Enter total tasks: 3
-Task name 1: Compiler Design
-Task name 2: DAA Huffman
-Task name 3: WPL
-Task 1 (out of 5): 5
-Task 2 (out of 5): 4
-Task 3 (out of 5): 2
-Start of day: 8
-End of day: 22
-Number of Fixed Tasks:4
-Your Fixed Task name: Lunch
-Start of Lunch: 13
-End of Lunch: 13.50
-Your Fixed Task name: Dinner
-Start of Dinner: 20
-End of Dinner: 20.50
-Your Fixed Task name: Empath-Meet
-Start of Empath-Meet: 21
-End of Empath-Meet: 22
-Your Fixed Task name: Entertainment
-Start of Entertainment: 16
-End of Entertainment: 17
-1: Compiler Design => 8.0 to 11.40
-2: Freetime:1 => 11.40 to 13.0
-3: Lunch => 13.0 to 13.30
-4: DAA Huffman => 13.30 to 16.0
-5: Entertainment => 16.0 to 17.0
-6: DAA Huffman => 17.0 to 17.25
-7: Freetime:2 => 17.25 to 18.30
-8: WPL => 18.30 to 20.0
-9: Dinner => 20.0 to 20.30
-10: Freetime:3 => 20.30 to 21.0
-11: Empath-Meet => 21.0 to 22.0
-
+Bug Fixes :V.1
+Bug Fixes :V.2
+Bug Fixes :V.3
 
 
 
