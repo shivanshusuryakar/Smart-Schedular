@@ -212,7 +212,7 @@ while (count < (2 * len(task))):
                         remfreetime[i] = (round(remfreetime[i]) - round(workdone))
                     if (minfix[j][0]) != (minfix[j][1]):
                         timings.extend([[(minfix[j][0]), (minfix[j][1])]])
-                        timingname.extend([fixname[i]])
+                        timingname.extend([fixname[j]])
 
                     fxflag = 1
             if remfreetime[i] <= 0:
